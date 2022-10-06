@@ -1,6 +1,6 @@
 Olá, Bem vindo ao Meu Perfil 😊
 
-- 🔭 Hoje Estudo com Front-End(HTML, CSS, React)
+- 🔭 Hoje Estudo com Front-End(HTML, CSS, React, Figma, javascript)
 
 - 🌱 Estudo Analise e Desenvolvimento de Sistema
 
