@@ -7,7 +7,8 @@ Olá, Bem vindo ao Meu Perfil 😊
 - 💼 Busco Recolocação no mercado de Trabalho 
 
 - 📫 Contate-me por: vfortesdasilvasantos@gmail.com
-                     https://www.linkedin.com/in/viníciusfss/
+
+- 💻 https://www.linkedin.com/in/viníciusfss/
 
 <div align="center">
   <a href="https://github.com/viniciusfss19">
