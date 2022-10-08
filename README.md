@@ -8,7 +8,7 @@ Olá, Bem vindo ao Meu Perfil 😊
 
 - 📫 Contate-me por: vfortesdasilvasantos@gmail.com
 
-- 💻 https://www.linkedin.com/in/viníciusfss/
+- 💻 Linkedin: https://www.linkedin.com/in/viníciusfss/
 
 <div align="center">
   <a href="https://github.com/viniciusfss19">
