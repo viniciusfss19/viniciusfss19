@@ -45,7 +45,7 @@ Atualmente, estou me especializando em **Ciência de Dados** e **Machine Learnin
 
 ## 📫 Contato
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario/)  
+- [LinkedIn](https://www.linkedin.com/in/viniciusfss/)  
 - ✉️ vfortesdasilvasantos@gmail.com  
 - 📱 [WhatsApp](https://wa.me/5531993187396) *(31) 99318-7396*
 
